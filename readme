@@ -1,5 +1,22 @@
 hello world!
 git与github在ubuntu下的使用
+sckjlsc / ubuntu_t1
+ Code
+ Issues 0
+ Pull Requests 0
+ Wiki
+ Pulse
+ Graphs
+ Network
+ Settings
+Quick setup — if you've done this kind of thing before
+or	
+HTTP
+SSH
+	
+We recommend every repository include a README, LICENSE, and .gitignore.
+
+Create a new repository on the command line
 
 最近开始使用git对kohana3的文档做一些补充的工作，使用了git 和 github ，从了解到使用，还是有一点距离，下面是总结的一些方法。
 
